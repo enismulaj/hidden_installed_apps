@@ -1,5 +1,5 @@
 import winapps
-#kjo librari kqyre vetem appet qe i keni te instaluar ne krejt userat
+#check all apps that u have installed in your pc or laptop
 
 
 
